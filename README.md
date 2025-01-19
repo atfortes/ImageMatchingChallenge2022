@@ -14,6 +14,8 @@ For each pair of input images, we feed them into the two different local feature
 
 More details on the implementation and experiments can be found in our [report](https://github.com/atfortes/ImageMatchingChallenge2022/blob/main/report.pdf).
 
+The solution notebook can also be found at Kaggle (with all the dependencies): https://www.kaggle.com/code/ferreiracardos10/imc-2022-final-submission.
+
 ## Examples
 
 Some inference examples, using images from famous monuments around the world. The colors of the resulting matches range from **green** for high-confidence matches to **red** for low-confidence matches.
